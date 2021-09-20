@@ -1,0 +1,1 @@
+In this project I use everything I have learned so far in HTML and CSS, I make use of flexbox and its properties to organize the page.
